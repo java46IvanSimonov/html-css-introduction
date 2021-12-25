@@ -1,0 +1,13 @@
+.thumbnails-anchor{
+    display: block;
+    text-align: center;
+}
+.thumbnails-title{
+    width: 35px;
+}
+.thumbnails-image{
+    width: 200px;
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+}
